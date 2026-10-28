@@ -1,0 +1,3 @@
+Upload test #2
+Token scope: repo, workflow, gist, project, packages
+Waktu: 2026-10-28T13:30:03Z
